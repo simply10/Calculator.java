@@ -316,4 +316,4 @@ cl.memLabel.setText(" ");
 //it must be CE button pressed  
 cl.displayLabel.setText("0");cl.setClear=true;  
 }//actionPerformed  
-}//class 
+}//class
