@@ -5,7 +5,7 @@ import java.awt.event.*;
 public class MyCalculator extends Frame  
 {  
   
-public boolean setClear=tu;  
+public boolean setClear=true;  
 double number, memValue;  
 char op;  
   
